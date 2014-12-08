@@ -1,0 +1,89 @@
+@charset "UTF-8";
+@namespace epub "http://www.idpf.org/2007/ops";
+
+abbr.acronym,
+abbr.degree{
+	font-variant: all-small-caps;
+}
+
+section[epub|type~="dedication"] p{
+	font-variant: small-caps;
+	margin-top: 3em;
+	text-align: center;
+	text-indent: 0;
+}
+
+.signature{
+	font-variant: small-caps;
+	margin-top: 2em;
+	text-align: right;
+}
+
+header,
+.telegram-body{
+	text-align: center;
+}
+
+.tomb{
+	text-align: center;
+	text-transform: uppercase;
+	margin: 1em 0;
+}
+
+header p{
+	margin: 1em;
+	text-align: center;
+	text-indent: 0;
+}
+
+h4{
+	font-variant: small-caps;
+	font-weight: normal;
+}
+
+*[epub|type~="z3998:valediction"] .signature{
+	font-style: normal;
+	font-variant: small-caps;
+	margin: 0;
+}
+
+*[epub|type~="z3998:valediction"],
+*[epub|type~="se:letter:dateline"]{
+	text-align: right;
+}
+
+*[epub|type~="se:letter:dateline"] + *{
+	text-indent: 0;
+}
+
+*[epub|type~="z3998:valediction"]{
+	margin: 1.5em;
+}
+
+section[epub|type~="z3998:diary"] + *,
+article[epub|type~="z3998:letter"] + *,
+section[epub|type~="preface"]{
+	margin-top: 3em;
+}
+
+article[epub|type~="z3998:diary-entry"] + article[epub|type~="z3998:diary-entry"]:before{
+	border-top: 1px solid;
+	content: '';
+	display: block;
+	height: 0;
+	margin: 1.5em auto;
+	width: 25%;
+}
+
+article[epub|type~="z3998:diary-entry"] p:first-child,
+section[epub|type~="preface"] p{
+	text-indent: 0;
+}
+
+h3{
+	font-weight: normal;
+}
+
+p[epub|type~="z3998:salutation"]{
+	text-indent: 0;
+}
