@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/bram-stoker/dracula</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-02-04T16:34:12Z</meta>
+		<meta property="dcterms:modified">2015-03-26T23:52:59Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -39,7 +39,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/345</dc:source>
 		<dc:source>https://archive.org/stream/dracula00stok</dc:source>
-		<meta property="se:word-count">162198</meta>
+		<meta property="se:word-count">162200</meta>
 		<meta property="se:url.wikipedia">https://en.wikipedia.org/wiki/Dracula</meta>
 		<dc:creator id="author">Bram Stoker</dc:creator>
 		<meta property="file-as" refines="#author">Stoker, Bram</meta>
