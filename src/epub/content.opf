@@ -45,7 +45,7 @@
 		<dc:creator id="author">Bram Stoker</dc:creator>
 		<meta property="file-as" refines="#author">Stoker, Bram</meta>
 		<meta property="se:name.person.full-name" refines="#author">Abraham Stoker</meta>
-		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Bram_Stoker</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Bram_Stoker</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Joseph Magnus Stäck</dc:contributor>
 		<meta property="file-as" refines="#artist">Stäck, Joseph Magnus</meta>
