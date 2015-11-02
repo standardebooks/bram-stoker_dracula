@@ -1,8 +1,7 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-abbr.acronym,
-abbr.degree{
+abbr.initialism.long{
 	font-variant: all-small-caps;
 }
 
