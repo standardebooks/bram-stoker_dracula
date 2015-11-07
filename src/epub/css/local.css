@@ -22,8 +22,7 @@ section[epub|type~="dedication"] p{
 	text-align: right;
 }
 
-header,
-.telegram-body{
+header{
 	text-align: center;
 }
 
