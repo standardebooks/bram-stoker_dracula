@@ -43,22 +43,22 @@ h4{
 	font-weight: normal;
 }
 
-*[epub|type~="z3998:valediction"] .signature{
+[epub|type~="z3998:valediction"] .signature{
 	font-style: normal;
 	font-variant: small-caps;
 	margin: 0;
 }
 
-*[epub|type~="z3998:valediction"],
-*[epub|type~="se:letter.dateline"]{
+[epub|type~="z3998:valediction"],
+[epub|type~="se:letter.dateline"]{
 	text-align: right;
 }
 
-*[epub|type~="se:letter.dateline"] + *{
+[epub|type~="se:letter.dateline"] + *{
 	text-indent: 0;
 }
 
-*[epub|type~="z3998:valediction"]{
+[epub|type~="z3998:valediction"]{
 	margin: 1.5em;
 }
 
@@ -90,22 +90,22 @@ p[epub|type~="z3998:salutation"]{
 	text-indent: 0;
 }
 
-*[epub|type~="z3998:verse"] p{
+[epub|type~="z3998:verse"] p{
 	text-align: left;
 	text-indent: 0;
 }
 
-*[epub|type~="z3998:verse"] p span{
+[epub|type~="z3998:verse"] p span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
-*[epub|type~="z3998:verse"] br{
+[epub|type~="z3998:verse"] br{
 	display: none;
 }
 
-*[epub|type~="z3998:verse"] + p{
+[epub|type~="z3998:verse"] + p{
 	text-indent: 0;
 }
 
