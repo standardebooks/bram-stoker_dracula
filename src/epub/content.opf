@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/bram-stoker/dracula</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2015-12-10T22:46:44Z</meta>
+		<meta property="dcterms:modified">2016-01-27T19:39:40Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -37,7 +37,7 @@
 			&lt;p&gt;&lt;i&gt;Dracula&lt;/i&gt; wasn&amp;rsquo;t as famous in its day as it is today; readers of the time seemed to enjoy it as nothing more than a good story, and Stoker died nearly penniless.  But its long-lasting influence is undeniable, and for all its age &lt;i&gt;Dracula&lt;/i&gt; remains a gripping, fast-paced, and enjoyable read.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>http://www.gutenberg.org/ebooks/345</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/345</dc:source>
 		<dc:source>https://archive.org/stream/dracula00stok</dc:source>
 		<meta property="se:word-count">162200</meta>
 		<meta property="se:reading-ease.flesch">77.67</meta>
