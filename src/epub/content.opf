@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/bram-stoker/dracula</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2016-06-21T01:42:06Z</meta>
-		<meta property="se:revision-number">36</meta>
+		<meta property="dcterms:modified">2016-10-31T20:10:58Z</meta>
+		<meta property="se:revision-number">38</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -34,8 +34,8 @@
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Dracula&lt;/i&gt; is one of the most famous public-domain horror novels in existence, responsible for not just introducing the eponymous Count Dracula, but for introducing many of the common tropes we see in modern horror fiction.&lt;/p&gt;
-			&lt;p&gt;Count Dracula isn&amp;rsquo;t the first vampire to have graced the pages of literature&amp;mdash;that honor is thought to belong to Lord Ruthven in &lt;i&gt;The Vampyr&lt;/i&gt;, by John William Polidori&amp;mdash;but Dracula is the vampire on which modern vampires are based.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Dracula&lt;/i&gt; wasn&amp;rsquo;t as famous in its day as it is today; readers of the time seemed to enjoy it as nothing more than a good story, and Stoker died nearly penniless.  But its long-lasting influence is undeniable, and for all its age &lt;i&gt;Dracula&lt;/i&gt; remains a gripping, fast-paced, and enjoyable read.&lt;/p&gt;
+			&lt;p&gt;Count Dracula isn’t the first vampire to have graced the pages of literature—that honor is thought to belong to Lord Ruthven in &lt;i&gt;The Vampyr&lt;/i&gt;, by John William Polidori—but Dracula is the vampire on which modern vampires are based.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Dracula&lt;/i&gt; wasn’t as famous in its day as it is today; readers of the time seemed to enjoy it as nothing more than a good story, and Stoker died nearly penniless.  But its long-lasting influence is undeniable, and for all its age &lt;i&gt;Dracula&lt;/i&gt; remains a gripping, fast-paced, and enjoyable read.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/345</dc:source>
