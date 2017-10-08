@@ -77,7 +77,6 @@ article[epub|type~="z3998:diary-entry"] + article[epub|type~="z3998:diary-entry"
 	width: 25%;
 }
 
-article[epub|type~="z3998:diary-entry"] p:first-child,
 section[epub|type~="preface"] p{
 	text-indent: 0;
 }
