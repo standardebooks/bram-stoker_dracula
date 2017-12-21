@@ -76,7 +76,7 @@ blockquote blockquote{
 	margin: 1em;
 }
 
-blockquote[epub|type~="z3998:diary-entry"] + blockquote[epub|type~="z3998:diary-entry"]:before{
+blockquote[epub|type~="z3998:diary-entry"] + blockquote[epub|type~="z3998:diary-entry"]::before{
 	border-top: 1px solid;
 	content: '';
 	display: block;
