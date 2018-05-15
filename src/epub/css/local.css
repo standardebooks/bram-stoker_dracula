@@ -34,13 +34,17 @@ header{
 
 header p{
 	margin: 1em;
-	text-align: center;
 	text-indent: 0;
+	font-variant: small-caps;
 }
 
-h4{
-	font-variant: small-caps;
-	font-weight: normal;
+p.headline{
+	font-size: 1.25em;
+}
+
+section[epub|type~="chapter"] section{
+	margin-top: 3em;
+	margin-bottom: 3em;
 }
 
 [epub|type~="z3998:valediction"] .signature{
@@ -58,7 +62,7 @@ h4{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:valediction"]{
+p[epub|type~="z3998:valediction"]{
 	margin: 1.5em;
 }
 
@@ -85,15 +89,8 @@ blockquote[epub|type~="z3998:diary-entry"] + blockquote[epub|type~="z3998:diary-
 	width: 25%;
 }
 
-section[epub|type~="preface"] p{
-	text-indent: 0;
-}
-
-h3{
-	font-weight: normal;
-}
-
-p[epub|type~="z3998:salutation"]{
+p[epub|type~="z3998:salutation"],
+p[epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
 
