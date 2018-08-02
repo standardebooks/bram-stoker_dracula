@@ -5,10 +5,6 @@ abbr.initialism.long{
 	font-variant: all-small-caps;
 }
 
-abbr.name{
-	white-space: nowrap;
-}
-
 section[epub|type~="dedication"] p{
 	font-variant: small-caps;
 	margin-top: 3em;
@@ -20,10 +16,6 @@ section[epub|type~="dedication"] p{
 	font-variant: small-caps;
 	margin-top: 2em;
 	text-align: right;
-}
-
-header{
-	text-align: center;
 }
 
 .tomb{
