@@ -26,22 +26,24 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Dracula</dc:title>
 		<meta property="file-as" refines="#title">Dracula</meta>
 		<dc:subject id="subject-1">Dracula, Count (Fictitious character)--Fiction</dc:subject>
 		<dc:subject id="subject-2">Transylvania (Romania)--Fiction</dc:subject>
 		<dc:subject id="subject-3">Vampires--Fiction</dc:subject>
 		<dc:subject id="subject-4">Whitby (England)--Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://lccn.loc.gov/93022568</meta>
-		<meta property="meta-auth" refines="#subject-2">http://lccn.loc.gov/93022568</meta>
-		<meta property="meta-auth" refines="#subject-3">http://lccn.loc.gov/93022568</meta>
-		<meta property="meta-auth" refines="#subject-4">http://lccn.loc.gov/93022568</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008102387</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008117290</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008113166</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">An ancient undead monster terrorizes Victorian London.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Dracula&lt;/i&gt; is one of the most famous public-domain horror novels in existence, responsible for not just introducing the eponymous Count Dracula, but for introducing many of the common tropes we see in modern horror fiction.&lt;/p&gt;
 			&lt;p&gt;Count Dracula isn’t the first vampire to have graced the pages of literature—that honor is thought to belong to Lord Ruthven in &lt;i&gt;The Vampyr&lt;/i&gt;, by John William Polidori—but Dracula is the vampire on which modern vampires are based.&lt;/p&gt;
