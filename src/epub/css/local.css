@@ -70,7 +70,7 @@ blockquote blockquote{
 
 blockquote[epub|type~="z3998:diary-entry"] + blockquote[epub|type~="z3998:diary-entry"]::before{
 	border-top: 1px solid;
-	content: '';
+	content: "";
 	display: block;
 	height: 0;
 	margin: 1.5em auto;
