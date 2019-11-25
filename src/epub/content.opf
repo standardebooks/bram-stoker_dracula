@@ -52,6 +52,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/345</dc:source>
 		<dc:source>https://archive.org/details/dracula00stok</dc:source>
+		<meta property="se:production-notes">Quotation marks were preserved for the place name of the "Spaniards" for clarity.</meta>
 		<meta property="se:word-count">162176</meta>
 		<meta property="se:reading-ease.flesch">77.67</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Dracula</meta>
