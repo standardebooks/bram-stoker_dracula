@@ -14,10 +14,9 @@ section[epub|type~="dedication"] p{
 	text-align: right;
 }
 
-.tomb{
+#chapter-27 > blockquote:nth-of-type(5) > blockquote > blockquote{
 	text-align: center;
 	text-transform: uppercase;
-	margin: 1em 0;
 }
 
 header p{
@@ -119,7 +118,7 @@ p span.i1{
 	padding-left: 2em;
 }
 
-.end{
+#chapter-13 blockquote:nth-last-child(3) blockquote p:last-child{
 	font-variant: small-caps;
 	margin-top: 1em;
 	text-align: center;
