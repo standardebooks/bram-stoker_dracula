@@ -41,8 +41,8 @@
 		<meta property="term" refines="#subject-3">sh2008113166</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
-		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Horror</meta>
 		<dc:description id="description">An ancient undead monster terrorizes Victorian London.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Dracula&lt;/i&gt; is one of the most famous public-domain horror novels in existence, responsible for not just introducing the eponymous Count Dracula, but for introducing many of the common tropes we see in modern horror fiction.&lt;/p&gt;
