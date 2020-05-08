@@ -45,7 +45,7 @@
 		<meta property="se:subject">Horror</meta>
 		<dc:description id="description">An ancient undead monster terrorizes Victorian London.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Dracula&lt;/i&gt; is one of the most famous public-domain horror novels in existence, responsible for not just introducing the eponymous Count Dracula, but for introducing many of the common tropes we see in modern horror fiction.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Dracula&lt;/i&gt; is one of the most famous public-domain horror novels in existence, responsible not just for introducing the eponymous Count Dracula, but for introducing many of the common tropes we see in modern horror fiction.&lt;/p&gt;
 			&lt;p&gt;Count Dracula isn’t the first vampire to have graced the pages of literature—that honor is thought to belong to Lord Ruthven in &lt;i&gt;The Vampyr&lt;/i&gt;, by John William Polidori—but Dracula is the vampire on which modern vampires are based.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Dracula&lt;/i&gt; wasn’t as famous in its day as it is today; readers of the time seemed to enjoy it as nothing more than a good story, and Stoker died nearly penniless. But its long-lasting influence is undeniable, and for all its age &lt;i&gt;Dracula&lt;/i&gt; remains a gripping, fast-paced, and enjoyable read.&lt;/p&gt;
 		</meta>
