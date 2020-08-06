@@ -6,14 +6,4 @@
 			<reason>In this case the nested blockquote is a diary entry within a diary.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-20.xhtml">
-		<ignore>
-			<code>t-007</code>
-			<reason>No-break space not necessary here as the next word is a full name.</reason>
-		</ignore>
-		<ignore>
-			<code>t-008</code>
-			<reason>No-break space not necessary here as the next word is a full name.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
