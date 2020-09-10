@@ -8,7 +8,7 @@ section[epub|type~="dedication"] p{
 	text-indent: 0;
 }
 
-[epub:type~="z3998:signature"]{
+[epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 	margin-top: 2em;
 	text-align: right;
@@ -33,7 +33,7 @@ section[epub|type~="chapter"] blockquote[epub|type~="z3998:diary"]{
 	margin-top: 3em;
 }
 
-[epub|type~="z3998:valediction"] [epub:type~="z3998:signature"]{
+[epub|type~="z3998:valediction"] [epub|type~="z3998:signature"]{
 	font-style: normal;
 	font-variant: small-caps;
 	margin: 0;
