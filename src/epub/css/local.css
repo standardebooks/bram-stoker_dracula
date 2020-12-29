@@ -75,7 +75,12 @@ section[epub|type~="chapter"] blockquote[epub|type~="z3998:diary"]{
 }
 
 p[epub|type~="z3998:valediction"]{
-	margin: 1.5em;
+	margin-top: 1em;
+}
+
+p[epub|type~="z3998:postscript"]{
+	margin-top: 1em;
+	text-indent: 0;
 }
 
 blockquote,
