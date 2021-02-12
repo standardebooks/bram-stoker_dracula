@@ -46,6 +46,9 @@
 		<meta id="collection-1" property="belongs-to-collection">The Guardian’s Best 100 Novels in English (2015)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">31</meta>
+		<meta id="collection-2" property="belongs-to-collection">The Telegraph’s Greatest Villains in Literature</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">13</meta>
 		<dc:description id="description">An ancient undead monster terrorizes Victorian London.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Dracula&lt;/i&gt; is one of the most famous public-domain horror novels in existence, responsible not just for introducing the eponymous Count Dracula, but for introducing many of the common tropes we see in modern horror fiction.&lt;/p&gt;
