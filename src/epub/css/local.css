@@ -46,9 +46,9 @@ section[epub|type~="dedication"] p{
 }
 
 header p{
+	font-variant: small-caps;
 	margin: 1em;
 	text-indent: 0;
-	font-variant: small-caps;
 }
 
 p.headline{
