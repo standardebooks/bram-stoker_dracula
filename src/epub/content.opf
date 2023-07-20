@@ -60,7 +60,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/345</dc:source>
 		<dc:source>https://archive.org/details/dracula00stok</dc:source>
 		<meta property="se:production-notes">Quotation marks were preserved for the place name of the "Spaniards" for clarity. Some archaic spellings, ligatures and umlauts that might normally be modernized in SE productions have been preserved here as part of the epistolary style of the book. Chermosese -&gt; Chersonese, see https://github.com/standardebooks/bram-stoker_dracula/pull/7</meta>
-		<meta property="se:word-count">162183</meta>
+		<meta property="se:word-count">162185</meta>
 		<meta property="se:reading-ease.flesch">77.57</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Dracula</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/bram-stoker_dracula</meta>
