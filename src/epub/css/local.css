@@ -52,7 +52,7 @@ header p{
 }
 
 p.headline{
-	font-size: 1.25em;
+	font-size: larger;
 }
 
 section[epub|type~="chapter"] blockquote[epub|type~="z3998:diary"]{
