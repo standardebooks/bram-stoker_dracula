@@ -105,8 +105,7 @@ blockquote blockquote{
 section[epub|type~="chapter"] > blockquote,
 blockquote[epub|type~="z3998:diary"] > header + blockquote,
 blockquote > header + *,
-blockquote[epub|type~="z3998:diary"] + *,
-blockquote[epub|type~="z3998:letter"] + *{
+blockquote[epub|type~="z3998:diary"] + *{
 	margin-top: 3em;
 }
 
