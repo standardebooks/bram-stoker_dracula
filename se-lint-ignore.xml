@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-7.xhtml">
-		<ignore>
-			<code>s-005</code>
+		<ignore code="s-005">
 			<reason>In this case the nested blockquote is a diary entry within a diary.</reason>
 		</ignore>
 	</file>
