@@ -83,6 +83,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Joseph Magnus Stäck</dc:contributor>
 		<meta property="file-as" refines="#artist">Stäck, Joseph Magnus</meta>
+		<link href="https://en.wikipedia.org/wiki/Joseph_Magnus_St%C3%A4ck" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Chuck Greif</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Greif, Chuck</meta>
