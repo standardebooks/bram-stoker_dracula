@@ -67,7 +67,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/345</dc:source>
 		<dc:source>https://archive.org/details/dracula00stok</dc:source>
-		<meta property="schema:wordCount">161105</meta>
+		<meta property="schema:wordCount">161102</meta>
 		<meta property="schema:educationalLevel">77.57</meta>
 		<link href="https://en.wikipedia.org/wiki/Dracula" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
